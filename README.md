@@ -3,7 +3,7 @@
 * This repo contains all RG defined configs for loadouts, boxes, weapons, factions etc.
 * Version numbering follows RG mod pack = 2.1.0
 
-### 1. Faction ###
+### 1. Faction
 Taskforce RG is defined as the following factions:
 ```
 RG_TaskForce     // Main faction - all but units
@@ -12,16 +12,56 @@ RG_TaskForce_WD  // Woodland Units
 RG_TaskForce_SN  // Winter Units
 ```
 
-* You can use the online editor
-* If you`re familiar with working with GIT, feel free to clone this repo locally and work from there.
+### 2. Units
+As stated above, all units are available in 3 types of camouflage. in general, it's only the camo of the uniform, vest, backpack and headgear that changes. Load-outs should be the same.
 
-### Contribution guidelines ###
+###### a. Command and admin
 
-* Don't create branches, they're unneeded and cause more work than they're use of in this project.
-* When editing please be on TS on Development channel, it's the only way to prevent people doing overlapping work which would break each other.
-* Don't break the C++ syntax, if you`re having troubles, look for examples from the source, it contains plenty of examples.
+| Desert (DS) | Woodland (WD) | Winter (SN) |
+| --------|---------|-------|
+| RG_GameAdmin_DS  | RG_GameAdmin_WD   | RG_GameAdmin_SN    |
+| xxxxx | xxxxxx | xxxxxx    |
 
-### Who do I talk to? ###
 
-* This repo is managed by the RG Dev Team.
+###### b. Gambler
+
+| Desert (DS) | Woodland (WD) | Winter (SN) |
+| --------|---------|-------|
+| RG_GameAdmin_DS  | RG_GameAdmin_WD   | RG_GameAdmin_SN    |
+| xxxxx | xxxxxx | xxxxxx    |
+| xxxxx | xxxxxx | xxxxxx    |
+| xxxxx | xxxxxx | xxxxxx    |
+| xxxxx | xxxxxx | xxxxxx    |
+| xxxxx | xxxxxx | xxxxxx    |
+| xxxxx | xxxxxx | xxxxxx    |
+| xxxxx | xxxxxx | xxxxxx    |
+
+
+
+###### c. Talon
+
+| Desert (DS) | Woodland (WD) | Winter (SN) |
+| --------|---------|-------|
+| Monday  | pasta   | $6    |
+| Tuesday | chicken | $8    |
+| xxxxx | xxxxxx | xxxxxx    |
+| xxxxx | xxxxxx | xxxxxx    |
+| xxxxx | xxxxxx | xxxxxx    |
+| xxxxx | xxxxxx | xxxxxx    |
+| xxxxx | xxxxxx | xxxxxx    |
+| xxxxx | xxxxxx | xxxxxx    |
+| xxxxx | xxxxxx | xxxxxx    |
+| xxxxx | xxxxxx | xxxxxx    |
+
+
+
+###### d. Vegas
+
+| Desert (DS) | Woodland (WD) | Winter (SN) |
+| --------|---------|-------|
+| Monday  | pasta   | $6    |
+| Tuesday | chicken | $8    |
+| xxxxx | xxxxxx | xxxxxx    |
+| xxxxx | xxxxxx | xxxxxx    || xxxxx | xxxxxx | xxxxxx    |
+
 
