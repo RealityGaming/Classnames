@@ -29,7 +29,6 @@ As stated above, all units are available in 3 types of camouflage. in general, i
 
 | Desert (DS) | Woodland (WD) | Winter (SN) |
 | --------|---------|-------|
-| RG_GameAdmin_DS  | RG_GameAdmin_WD   | RG_GameAdmin_SN    |
 | RG_PlatoonCO_DS | RG_PlatoonCO_WD | RG_PlatoonCO_SN    |
 | RG_PlatoonXO_DS | RG_PlatoonXO_WD | RG_PlatoonXO_SN    |
 | RG_PlatoonMedic_DS | RG_PlatoonMedic_WD | RG_PlatoonMedic_SN    |
@@ -63,7 +62,6 @@ As stated above, all units are available in 3 types of camouflage. in general, i
 
 
 
-
 ###### d. Vegas
 
 | Desert (DS) | Woodland (WD) | Winter (SN) |
@@ -83,9 +81,83 @@ As stated above, all units are available in 3 types of camouflage. in general, i
 ### 3. Gear
 
 ###### a. Ammo Boxes
+```
+RG_Box_Berets
+RG_Box_clothes_ds
+RG_Box_clothes_sn
+RG_Box_clothes_wd
+RG_Box_divinggear
+RG_Box_gamblerft
+RG_Box_gambler_pco
+RG_Box_medical
+RG_Box_parachutes
+RG_Box_radios_and_gadgets
+RG_Box_talon
+RG_Box_vegas
+RG_Crate_Gambler
+RG_Crate_Vegas
+```
+
 ###### b. Backpacks
+```
+RG_Kitbag_WD
+RG_Kitbag_DS
+RG_Kitbag_SN
+RG_Kitbag_AOR1
+RG_Kitbag_AOR2
+RG_AssaultPack_WD
+RG_AssaultPack_DS
+RG_AssaultPack_SN
+RG_Carryall_WD
+RG_Carryall_DS
+RG_Carryall_SN
+```
+
 ###### c. Headgear
+```
+RG_HelmetB_DS
+RG_HelmetB_WD
+RG_HelmetB_SN
+RG_HelmetB_Light_DS
+RG_HelmetB_Light_WD
+RG_HelmetB_Light_SN
+RG_HelmetB_SF_DS
+RG_HelmetB_SF_WD
+RG_HelmetB_SF_SN
+RG_Booniehat_DS
+RG_Booniehat_WD
+RG_Booniehat_SN
+RG_Booniehat_AOR1
+RG_Booniehat_AOR2
+RG_Talon_Helmet_Skull
+RG_Beret_highroller
+RG_Beret_gambler
+RG_Beret_talon
+RG_Beret_vegas
+RG_Beret_recruit
+RG_Beret_medic
+RG_Beret_shame
+RG_Beret_ares
+```
+
 ###### d. Uniforms
+```
+RG_Underwear
+RG_U_DS_LS
+RG_U_DS_SS
+RG_U_DS_T
+RG_U_WD_LS
+RG_U_WD_SS
+RG_U_WD_T
+RG_U_SN_LS
+RG_U_SN_SS
+RG_U_AOR1
+RG_U_AOR2
+RG_AdminClothes
+RG_ExcalUniform
+RG_TalonCoveralls
+```
+
 ###### e. Vehicles
 ###### f. Vests
 ###### g. Weapons
