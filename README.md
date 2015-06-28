@@ -159,8 +159,59 @@ RG_TalonCoveralls
 ```
 
 ###### e. Vehicles
-###### f. Vests
-###### g. Weapons
+```
+RG_M1025_MED_DS
+RG_M1025_MED_WD
+RG_MH_6_LittleBird_CTRG
+RG_AH_6_LittleBird_CTRG
+RG_MH_6_LittleBird_DS
+RG_AH_6_LittleBird_DS
+RG_MH_6_LittleBird_WD
+RG_AH_6_LittleBird_WD
+RG_MH_6_LittleBird_NIGHT
+RG_AH_6_LittleBird_NIGHT
+B_MRAP_PINK_F
+B_MRAP_SKULL_F
+I_MRAP_SKULL_F
+```
 
+###### f. Vests
+```
+RG_Vest_Carrier1_DS
+RG_Vest_Carrier1_WD
+RG_Vest_Carrier1_SN
+RG_Vest_Carrier2_DS
+RG_Vest_Carrier2_WD
+RG_Vest_Carrier2_SN
+RG_Vest_CarrierSF_DS
+RG_Vest_CarrierSF_WD
+RG_Vest_CarrierSF_SN
+RG_Vest_CarrierTac_DS
+RG_Vest_CarrierTac_WD
+RG_Vest_CarrierTac_SN
+```
+
+###### g. Weapons
+```
+RG_NVGoggles
+RG_Master_Arm_Switch_Off
+RG_LMG_Mk200_hamr_F
+RG_MXM_DMS_F
+RG_MXC_hamr_F
+RG_EBR_DMS_F
+RG_M4_UGL_COMP_ANPEQ_F
+RG_M4_UGL_hamr_ANPEQ_F
+RG_M4_UGL_m150_ANPEQ_F
+RG_M4_COMP_ANPEQ_F
+RG_M4_hamr_ANPEQ_F
+RG_M4_m150_ANPEQ_F
+RG_M249_552_F
+RG_M249_MRCO_F
+RG_M14_hamr_F
+RG_M14_mrco_F
+RG_M4_II_F
+RG_M4_II_203_F
+RG_SR25_MK4_F
+```
 
 ### 4. Insignia's
