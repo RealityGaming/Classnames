@@ -160,8 +160,8 @@ RG_TalonCoveralls
 
 ###### e. Vehicles
 ```
-RG_M1025_MED_DS
-RG_M1025_MED_WD
+RG_M1123_MED_DS
+RG_M1123_MED_WD
 RG_MH_6_LittleBird_CTRG
 RG_AH_6_LittleBird_CTRG
 RG_MH_6_LittleBird_DS
