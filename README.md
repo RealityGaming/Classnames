@@ -44,6 +44,9 @@ As stated above, all units are available in 3 types of camouflage. in general, i
 |  |  |     |
 | RG_SlingshotLdr_DS | RG_SlingshotLdr_WD | RG_SlingshotLdr_SN    |
 | RG_SlingshotMech_DS | RG_SlingshotMech_WD | RG_SlingshotMech_SN    |
+|  |  |     |
+| RG_Rangemaster |  |     |
+| RG_Recruit |  |     |
 
 
 ###### c. Talon
@@ -53,8 +56,10 @@ As stated above, all units are available in 3 types of camouflage. in general, i
 | RG_SupportCom_DS  | RG_SupportCom_WD   | RG_SupportCom_SN    |
 | RG_SupportCrew_DS | RG_SupportCrew_WD | RG_SupportCrew_SN    |
 |  |  |     |
+| RG_SupportPilotLdr_DS | RG_SupportPilotLdr_WD | RG_SupportPilotLdr_SN    |
 | RG_SupportJet_DS | RG_SupportJet_WD | RG_SupportJet_SN    |
 | RG_SupportHeli_DS | RG_SupportHeli_WD | RG_SupportHeli_SN    |
+| RG_SupportChief_DS | RG_SupportChief_WD | RG_SupportChief_SN    |
 |  |  |     |
 | RG_SupportLdr_DS | RG_SupportLdr_WD | RG_SupportLdr_SN    |
 | RG_SupportDet_DS | RG_SupportDet_WD | RG_SupportDet_SN    |
